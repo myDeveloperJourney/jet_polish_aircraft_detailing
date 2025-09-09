@@ -14,7 +14,7 @@ export default function Home() {
         <meta name="description" content="High-end aircraft detailing services: exterior wash, interior deep clean, paint correction, ceramic coating, and more. Mobile service available." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="index, follow" />
-        <link rel="icon" href="/logo.svg" />
+  <link rel="icon" href="/logo.svg" />
         <meta property="og:title" content="Jet Polish Aircraft Detailing" />
         <meta property="og:description" content="Premium aircraft detailing services. Mobile and hangar service. Request a quote today." />
       </Head>
