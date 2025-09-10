@@ -5,8 +5,8 @@ export default function Nav() {
   const [open, setOpen] = useState(false)
 
   return (
-    <header className="bg-white shadow-sm sticky top-0 z-40">
-      <div className="container flex items-center justify-between py-4">
+  <header className="bg-white shadow-sm sticky top-16 z-40">
+      <div className="container flex items-center justify-between py-3">
         <a href="#" className="flex items-center gap-3">
             <Image src="/logo.svg" alt="Jet Polish Logo" width={150} height={150} />
         </a>

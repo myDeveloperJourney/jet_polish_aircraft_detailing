@@ -19,8 +19,10 @@ export default function Home() {
         <meta property="og:description" content="Premium aircraft detailing services. Mobile and hangar service. Request a quote today." />
       </Head>
 
-      <TopBanner />
-      <Nav />
+  <TopBanner />
+  {/* Spacer equal to TopBanner height to prevent content overlap */}
+  <div style={{ height: 48 }} />
+  <Nav />
 
       <main>
         <Hero />
