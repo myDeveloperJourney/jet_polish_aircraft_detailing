@@ -9,7 +9,9 @@ export default function TopBanner() {
           <a href="tel:+18177755544" className="underline hover:text-yellow-400 font-semibold">(817) 775-5544</a>
         </div>
         <div className="flex items-center gap-2">
-          <a href="mailto:contact@jetpolishaircraftdetailing.com" className="underline hover:text-yellow-400 font-semibold break-words">contact@jetpolishaircraftdetailing.com</a>
+          <span className="sr-only">Email label</span>
+          <span className="font-medium">Email Us:</span>
+          <a href="mailto:contact@jetpolish.com" className="underline hover:text-yellow-400 font-semibold break-words">contact@jetpolish.com</a>
         </div>
       </div>
     </div>

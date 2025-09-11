@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Jet Polish Aircraft Detailing — Professional Aircraft Detailing</title>
+        <title>JetPolish Aircraft Detailing — Professional Aircraft Detailing</title>
         <meta name="description" content="High-end aircraft detailing services: exterior wash, interior deep clean, paint correction, ceramic coating, and more. Mobile service available." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="index, follow" />
         <link rel="icon" href="/logo.svg" />
-        <meta property="og:title" content="Jet Polish Aircraft Detailing" />
+        <meta property="og:title" content="JetPolish Aircraft Detailing" />
         <meta property="og:description" content="Premium aircraft detailing services. Mobile and hangar service. Request a quote today." />
       </Head>
 
